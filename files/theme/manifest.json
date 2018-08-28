@@ -1,0 +1,60 @@
+ {
+	"responsive": true,
+	"glyph-icons": true,
+	"enableEditorJS": true,
+	"description": "Brisk is a crisp and colorful theme that gives  you a fresh new space for design expression. Brisk delivers practical design, along with an undeniable sense of style, providing you with all the tools needed to build a truly unique website.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"full-width-header",
+		"navigation-side"
+	],
+	"color-support": {
+		"primary": "#26cfc1"
+	},
+	"color-presets": [
+		{
+			"primary": "#26cfc1",
+			"variation": "v1"
+		},
+		{
+			"primary": "#ff8884",
+			"variation": "v2"
+		},
+		{
+			"primary": "#ff8f2c",
+			"variation": "v3"
+		},
+		{
+			"primary": "#b974ca",
+			"variation": "v4"
+		},
+		{
+			"primary": "#4eb0da",
+			"variation": "v5"
+		},
+		{
+			"primary": "#2b2b2b",
+			"variation": "v6"
+		},
+		{
+			"primary": "#71bd52",
+			"variation": "v7"
+		},
+		{
+			"primary": "#a1a1a1",
+			"variation": "v8"
+		}
+	],
+	"custom-options" : [
+        {
+            "name" : "full-width",
+            "title": "Full Width",
+            "type" : "toggle",
+            "default" : true,
+			"is-body-class" : true,
+			"is-less-var" : false
+        }
+    ]
+}
