@@ -55,7 +55,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  #banner p a:hover { text-decoration: none; }
  .wsite-header-section:before { content: ''; position: absolute; top: 0; left: 0; display: block; width: 100%; min-height: 100%; height: inherit; background: rgba(56,76,89,0.8); }
  .wsite-section-bg-color:before, .wsite-section-bg-video:before { display: none; }
- .wsite-background, .wsite-header-section { background: url(theme/images/default-bg.jpg?1535493401) no-repeat center center; background-size: cover; }
+ .wsite-background, .wsite-header-section { background: url(theme/images/default-bg.jpg?1535747663) no-repeat center center; background-size: cover; }
  .landing-page #banner { height: 550px; }
  .tall-header-page #banner { height: 375px; }
  .short-header-page #banner { height: 250px; }
@@ -142,7 +142,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  #commentPostArea .field input { font-family: 'Roboto', sans-serif !important; font-size: 15px !important; font-weight: 100; color: #2b2b2b !important; background: #fff !important; padding: 5px 10px !important; border: 1px solid #c1c1c1 !important; border-radius: 3px; height: 29px !important; line-height: 29px !important; }
  .blogCommentHeading .blogCommentHeadingInner, .blogCommentWrap, .blogCommentHeading, .blogCommentHeading .blogCommentAuthor { background: none !important; }
  .blogCommentWrap { position: relative; display: block; padding-left: 60px; }
- .blogCommentWrap:before { content: ''; position: absolute; top: 0; left: 0; width: 50px; height: 50px; background: #384c59 url(theme/images/comment.png?1535493401) no-repeat center center; }
+ .blogCommentWrap:before { content: ''; position: absolute; top: 0; left: 0; width: 50px; height: 50px; background: #384c59 url(theme/images/comment.png?1535747663) no-repeat center center; }
  .blogCommentHeading { margin: 0px; }
  .blogCommentHeading .blogCommentAuthor span.name, .blogCommentHeading .blogCommentAuthor a.name { color: #2b2b2b !important; font-size: 14px; text-transform: capitalize; }
  .blogCommentHeading .blogCommentDate { color: #8e8e8e; float: left; font-size: 14px; padding: 0 9px 0 15px; text-align: left; text-shadow: none; text-transform: uppercase; }
